@@ -1,0 +1,24 @@
+.cards {
+    display : flex;
+   
+    flex-wrap: wrap;
+    
+    gap : 10px;
+   
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 12px;
+  border-radius: 8px;
+  width: 195px;
+  height : 60px;
+  text-align: center;
+  background-color: #18bd20;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+}
+.members {
+    
+    color : #e01616;
+    margin-bottom: 20px;
+}
